@@ -11,7 +11,7 @@ import ev3dev.ev3 as ev3
 from ev3dev.auto import *
 
 
-tags=[‘coffeepi’]
+tags=[‘legovend’]
 words=[]
 #Variables that contains the user credentials to access Twitter API
 #Two versions, redudancy if the first fails...
