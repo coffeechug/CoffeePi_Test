@@ -11,19 +11,27 @@ import ev3dev.ev3 as ev3
 from ev3dev.auto import *
 
 
-tags=['legovend']
+<<<<<<< Updated upstream
+tags=[‘legovend’]
+=======
+<<<<<<< Updated upstream
+tags=[legovend]
+=======
+tags=[‘legovend’]
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 words=[]
 #Variables that contains the user credentials to access Twitter API
 #Two versions, redudancy if the first fails...
-access_token = '857031350850813954-knaGfDc2fSXXeDP6M3mLik8ZgVdWGZC'
-access_token_secret = 'QB1k4NUFhkUFSG1qEqDXGrEMgqbsemXH5LfJmGQEke3l6'
-consumer_key = 'yOK0QDxvPrsNqb3jw0VLwiBoq'
-consumer_secret = 'HtusrU1E83UMqmo2zVRhdSbRJuYvUv6qbc76raYbkYOO5yOaqR'
+access_token = '857031350850813954-b3rNrAR3lf7iCr3tFJ7gImH8wcWt37n'
+access_token_secret = 'nls3o3VZOTwqG77RwTPTzSXZ1EsVIaY7FEUXeqgrPazVy'
+consumer_key = 'DtPEXg53kCvL5ukzcmHm6e5O8'
+consumer_secret = 'DOoP7yDRYG7ln9WuiGzEsssFL9DsakwK1LukL7h1aLWnwybRvy'
 
-access_token2 = '857031350850813954-knaGfDc2fSXXeDP6M3mLik8ZgVdWGZC'
-access_token_secret2 = 'QB1k4NUFhkUFSG1qEqDXGrEMgqbsemXH5LfJmGQEke3l6'
-consumer_key2 = 'yOK0QDxvPrsNqb3jw0VLwiBoq'
-consumer_secret2 = 'HtusrU1E83UMqmo2zVRhdSbRJuYvUv6qbc76raYbkYOO5yOaqR'
+access_token2 = '857031350850813954-b3rNrAR3lf7iCr3tFJ7gImH8wcWt37n'
+access_token_secret2 = 'nls3o3VZOTwqG77RwTPTzSXZ1EsVIaY7FEUXeqgrPazVy'
+consumer_key2 = 'DtPEXg53kCvL5ukzcmHm6e5O8'
+consumer_secret2 = 'DOoP7yDRYG7ln9WuiGzEsssFL9DsakwK1LukL7h1aLWnwybRvy'
 
 
 #This is a basic listener that just prints received tweets to stdout.
