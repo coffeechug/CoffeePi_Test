@@ -12,14 +12,7 @@ from ev3dev.auto import *
 
 
 <<<<<<< Updated upstream
-tags=[‘legovend’]
-=======
-<<<<<<< Updated upstream
-tags=[legovend]
-=======
-tags=[‘legovend’]
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+tags=['legovend']
 words=[]
 #Variables that contains the user credentials to access Twitter API
 #Two versions, redudancy if the first fails...
