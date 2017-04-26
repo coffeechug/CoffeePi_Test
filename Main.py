@@ -11,7 +11,6 @@ import ev3dev.ev3 as ev3
 from ev3dev.auto import *
 
 
-<<<<<<< Updated upstream
 tags=['legovend']
 words=[]
 #Variables that contains the user credentials to access Twitter API
@@ -89,4 +88,3 @@ if __name__ == '__main__':
         Sound.speak('Could not connect').wait()
     except Exception as e:
         print( e)
-        
