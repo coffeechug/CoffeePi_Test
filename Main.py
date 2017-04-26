@@ -15,15 +15,15 @@ tags=['legovend']
 words=[]
 #Variables that contains the user credentials to access Twitter API
 #Two versions, redudancy if the first fails...
-access_token = '857031350850813954-b3rNrAR3lf7iCr3tFJ7gImH8wcWt37n'
-access_token_secret = 'nls3o3VZOTwqG77RwTPTzSXZ1EsVIaY7FEUXeqgrPazVy'
-consumer_key = 'DtPEXg53kCvL5ukzcmHm6e5O8'
-consumer_secret = 'DOoP7yDRYG7ln9WuiGzEsssFL9DsakwK1LukL7h1aLWnwybRvy'
+access_token = ''
+access_token_secret = ''
+consumer_key = ''
+consumer_secret = ''
 
-access_token2 = '857031350850813954-b3rNrAR3lf7iCr3tFJ7gImH8wcWt37n'
-access_token_secret2 = 'nls3o3VZOTwqG77RwTPTzSXZ1EsVIaY7FEUXeqgrPazVy'
-consumer_key2 = 'DtPEXg53kCvL5ukzcmHm6e5O8'
-consumer_secret2 = 'DOoP7yDRYG7ln9WuiGzEsssFL9DsakwK1LukL7h1aLWnwybRvy'
+access_token2 = ''
+access_token_secret2 = ''
+consumer_key2 = ''
+consumer_secret2 = ''
 
 
 #This is a basic listener that just prints received tweets to stdout.
